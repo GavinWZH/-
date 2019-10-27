@@ -1,0 +1,3 @@
+Log is start!!!!
+[0][Normal]创建美术资源管器.
+[1][Normal]注册热键.

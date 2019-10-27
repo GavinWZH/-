@@ -1,0 +1,9 @@
+Log is start!!!!
+[0][Normal]创建美术资源管器.
+[1][Normal]注册热键.
+[2][Normal]读公告成功.
+[3][Normal]开始创建场景.
+[4][Normal]开始加载游戏数据.
+[5][Normal]完成游戏数据的加载.
+[6][Normal]设置装备生成概率.
+[7][Normal]
